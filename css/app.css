@@ -1,0 +1,30 @@
+.top-bar{
+    
+    color: darkblue;
+       
+}
+.top-bar-left {
+    color: darkblue;
+}
+.about{
+    
+    height: 300px;
+    background-color: gray;
+      
+    
+}
+h2{
+    
+    text-align: center;
+}
+.menu .menu-text{
+    font-stretch: expa
+    font-family: monospace;
+    font-size: 1em;
+}
+aside{
+    
+    float: left;
+    
+    
+}
