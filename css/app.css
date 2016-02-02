@@ -1,21 +1,15 @@
 h3{
     text-align: center;
 }
-.top-bar{
-    
-    color: darkblue;
-       
-}
+
 .top-bar-left {
-    color: darkblue;
+    color: green;
 }
-.about{
+.top-bar-right{
     
-    height: 300px;
-    background-color: gray;
-      
-    
+    color: green;
 }
+
 h2{
     
     text-align: center;
